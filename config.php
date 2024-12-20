@@ -1053,7 +1053,7 @@
 		'enableShopConfirmation' => true, // Verify that user wants to buy with popup
 		'useDB' => false, // Fetch offers from database, or the below config array
 		'showImage' => true,
-		'imageServer' => 'localhost/items',
+		'imageServer' => '38.210.210.20/items',
 		'imageType' => 'png',
 	);
 
