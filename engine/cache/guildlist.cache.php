@@ -1,0 +1,1 @@
+[{"id":"5","name":"bolludinhoguild","creationdata":"1734363311","motd":"","total":"0","level":false},{"id":"3","name":"string","creationdata":"1714407654","motd":"string","total":"0","level":false},{"id":"4","name":"test","creationdata":"1734363285","motd":"","total":"0","level":false}]

@@ -1,5 +1,2 @@
-*.cache.php
-engine/cache/*
-.idea
 *.Identifier
 phpmyadmin
